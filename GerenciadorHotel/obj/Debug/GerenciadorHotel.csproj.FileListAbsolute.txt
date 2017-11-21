@@ -1,0 +1,7 @@
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\bin\GerenciadorHotel.dll
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\bin\GerenciadorHotel.pdb
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\bin\Business.dll
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\bin\Business.pdb
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\obj\Debug\GerenciadorHotel.csprojResolveAssemblyReference.cache
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\obj\Debug\GerenciadorHotel.dll
+C:\CSharp\Projetos\GerenciadorHotel\GerenciadorHotel\obj\Debug\GerenciadorHotel.pdb

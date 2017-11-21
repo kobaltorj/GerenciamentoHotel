@@ -1,0 +1,5 @@
+C:\CSharp\Projetos\GerenciadorHotel\Business\bin\Debug\Business.dll
+C:\CSharp\Projetos\GerenciadorHotel\Business\bin\Debug\Business.pdb
+C:\CSharp\Projetos\GerenciadorHotel\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\CSharp\Projetos\GerenciadorHotel\Business\obj\Debug\Business.dll
+C:\CSharp\Projetos\GerenciadorHotel\Business\obj\Debug\Business.pdb
